@@ -7,4 +7,4 @@ Original repository: https://github.com/rafalsongin/Web-Markup-1.1-Assessment-Or
 
 Website: https://rafalsongin.github.io/
 
-Created by Assessment guide.
+Created reffeering to assessment guide.
